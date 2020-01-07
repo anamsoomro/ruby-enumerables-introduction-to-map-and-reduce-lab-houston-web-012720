@@ -35,7 +35,7 @@ def map_to_square(source_array)
 end 
 
 #COME BACK 
-def reduce_to_total(source_array, starting_point)
+def reduce_to_total(source_array, starting_point*)
   if starting_point
     result = starting_point
   else
